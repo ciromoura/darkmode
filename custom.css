@@ -1,0 +1,87 @@
+body{
+    background-color: #f0f0f0;
+}
+
+#box{
+    margin-top: 5%;
+    padding-bottom: 60px;
+}
+
+.card{
+    border-radius: 25px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+    margin-bottom: 5%;
+    min-height: 250px;
+}
+
+.dark-mode-bg{
+    background-color: #1C2025;
+}
+
+.dark-mode-card{
+    background-color: #282C31;
+    color: #f0f0f0;
+}
+
+.dark-mode-nav{
+    background-color: #462ecf !important;
+    color: #f0f0f0 !important;
+}
+
+.dark-mode-hr{
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode-link-nav{
+    color: #f0f0f0 !important;
+}
+
+.label-for-progress-bar{
+    float: left; 
+}
+
+.spacing{
+    padding-top: 4px;
+    margin-left: 38px;
+}
+
+#bars hr{
+    height: 10px !important;
+    margin: 0;
+    border: 0;
+}
+
+.font{
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.span-font{
+    font-size: 18px;
+    font-weight: 400;
+    float: none; 
+    margin-left: 0px;
+}
+
+.badge-purple {
+    color: #fff;
+    background-color: #462ecf;
+}
+
+.progress {
+    border-radius: 25px;
+}
+
+.progress .progress-bar{
+    border-radius: 25px;
+}
+
+.dark-mode-second-bg{
+    background-color: #1a1f26;
+    border: 1px solid #333;
+}
+
+.btn-outline-light {
+    background-color: #1a1f26;
+    border-color: #777 !important;
+}
