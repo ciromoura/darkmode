@@ -234,7 +234,7 @@
         <div>
             <a class="btn btn-dark toggle-button mr-2" target="_blank" href="https://github.com/ciromoura/darkmode"><i
                     class="fab fa-github"></i></a>
-            <button class="btn btn-dark toggle-button" onclick="myFunction()"><i class="fas fa-magic"></i></button>
+            <button class="btn btn-dark toggle-button" onclick="myFunction()"><i id="icon-switch" class="far fa-moon"></i></button>
         </div>
     </nav>
 
@@ -255,6 +255,8 @@
             $(".form-control").toggleClass("dark-mode-second-bg");
             $("#ch-year").toggleClass("btn-outline-light");
             $("#ch-year").toggleClass("btn-outline-dark");
+            $("#icon-switch").toggleClass("fa-moon");
+            $("#icon-switch").toggleClass("fa-sun");
         }
     </script>
 
