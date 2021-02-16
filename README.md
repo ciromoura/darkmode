@@ -15,6 +15,6 @@ Para realizar essa alteração, basta utilziar o método [.toggleClass()](https:
 </script>
 ```
 
-Os estilos utilizados são os existentes no próprio Bootstrap além de outros adicionais que estão no arquivo ```custom.css```.
+Os estilos utilizados são os existentes no próprio Bootstrap além de outros adicionais que estão no arquivo ```custom.css```.Você pode altera-los para que fiquem de acordo com as suas necessidades.
 
 Leia mais sobre o assunto [aqui](https://www.ciromoura.com.br/usando-jquery-para-alterar-tema-no-bootstrap/) e você pode ver o exemplo [aqui](https://ciromoura.github.io/darkmode/). 
